@@ -1,0 +1,15 @@
+Package: montyhall
+Title: Monty Hall Simulation Package
+Version: 0.0.0.9000
+Authors@R:
+    person(given = "Alizea",
+           family = "Sookram",
+           role = c("aut","cre"),
+           email = "your.email@example.com")
+Description: Simulates the Monty Hall problem and compares 'stay' vs 'switch' strategies.
+Depends:
+    dplyr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
